@@ -1,0 +1,7 @@
+Hi, Rushil here.
+My roll no. is LIT2024012.
+
+Fun Fact:A little coding fun fact: The first computer bug was an actual bug! In 1947, computer
+scientists found a moth trapped in a relay of the Harvard Mark II computer, causing a malfunction. They
+literally "debugged" the machine by removing the insect, and that’s how the term “bug” in programming
+was born!
